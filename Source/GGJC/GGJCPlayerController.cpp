@@ -26,20 +26,10 @@ void AGGJCPlayerController::SetupInputComponent()
 }
 void AGGJCPlayerController::MoveUp(float Value)
 {
-	if (AGGJCCharacter* MyPawn = Cast<AGGJCCharacter>(GetPawn()))
-	{
-		FRotator Rotation = MyPawn->GetControlRotation();
-		const FVector Direction = FRotationMatrix(Rotation).GetScaledAxis(EAxis::X);
-		MyPawn->AddMovementInput(Direction, Value);
-	}
+	GetPawn()->AddMovementInput(GetActorForwardVector(), Value);
 }
 
 void AGGJCPlayerController::MoveRight(float Value)
 {
-	if (AGGJCCharacter* MyPawn = Cast<AGGJCCharacter>(GetPawn()))
-	{
-		FRotator Rotation = MyPawn->GetControlRotation();
-		const FVector Direction = FRotationMatrix(Rotation).GetScaledAxis(EAxis::Y);
-		MyPawn->AddMovementInput(Direction, Value);
-	}
+	GetPawn()->AddMovementInput(GetActorRightVector(), Value);
 }
