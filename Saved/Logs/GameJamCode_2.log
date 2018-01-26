@@ -1,0 +1,1105 @@
+﻿Log file open, 01/27/18 06:38:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GameJamCode
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1628529463) SRandInit(-1628529463).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.238716
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.26-17.38.54:372][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.26-17.38.54:372][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.26-17.38.54:449][  0]LogInit: Computer: DESKTOP-I3II5TM
+[2018.01.26-17.38.54:449][  0]LogInit: User: jacob
+[2018.01.26-17.38.54:449][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.26-17.38.54:449][  0]LogInit: High frequency timer resolution =2.531253 MHz
+[2018.01.26-17.38.54:450][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.26-17.38.54:450][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.26-17.38.54:450][  0]LogMemory: Process Physical Memory: 276.39 MB used, 276.39 MB peak
+[2018.01.26-17.38.54:450][  0]LogMemory: Process Virtual Memory: 271.59 MB used, 271.59 MB peak
+[2018.01.26-17.38.54:450][  0]LogMemory: Physical Memory: 6232.22 MB used,  1855.30 MB free, 8087.52 MB total
+[2018.01.26-17.38.54:450][  0]LogMemory: Virtual Memory: 679.98 MB used,  1855.30 MB free, 134217728.00 MB total
+[2018.01.26-17.38.54:657][  0]LogInit: Using OS detected language (en-US).
+[2018.01.26-17.38.54:657][  0]LogInit: Using OS detected locale (en-NZ).
+[2018.01.26-17.38.54:740][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.26-17.38.55:303][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.26-17.38.58:012][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.26-17.38.58:071][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2018.01.26-17.38.58:071][  0]LogD3D11RHI:       2010/0/4043 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.26-17.38.58:079][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.01.26-17.38.58:079][  0]LogD3D11RHI:       128/0/4043 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.26-17.38.58:081][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.26-17.38.58:081][  0]LogD3D11RHI:       0/0/4043 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.26-17.38.58:081][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.26-17.38.58:087][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.26-17.38.58:087][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2018.01.26-17.38.58:087][  0]LogWindows: EnumDisplayDevices:
+[2018.01.26-17.38.58:087][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.01.26-17.38.58:087][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.01.26-17.38.58:087][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.01.26-17.38.58:087][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.26-17.38.58:087][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2018.01.26-17.38.58:087][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.26-17.38.58:087][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.26-17.38.58:087][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2018.01.26-17.38.58:118][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.26-17.38.58:239][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.01.26-17.38.58:240][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (D:/Libraries/Documents/Unreal Projects/GameJamCode/Intermediate/Shaders/WorkingDirectory/9184/).
+[2018.01.26-17.38.58:240][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jacob/AppData/Local/Temp/UnrealShaderWorkingDir/0A6C1E2949BD0FB9782897ADC8D8ECF9/'.
+[2018.01.26-17.38.58:240][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.26-17.39.00:357][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.26-17.39.00:416][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.26-17.39.00:472][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.26-17.39.00:530][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.26-17.39.00:591][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.26-17.39.00:646][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.26-17.39.00:704][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.26-17.39.00:758][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.26-17.39.00:806][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.26-17.39.00:859][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.26-17.39.00:913][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.26-17.39.00:968][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.26-17.39.01:023][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.26-17.39.01:076][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.26-17.39.01:187][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.26-17.39.01:187][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.26-17.39.01:245][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.26-17.39.01:289][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.26-17.39.01:392][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.26-17.39.01:424][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.26-17.39.01:481][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.26-17.39.01:539][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.26-17.39.01:600][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.26-17.39.01:662][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.26-17.39.01:662][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.26-17.39.02:232][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.26-17.39.02:870][  0]LogDerivedDataCache: Loaded boot cache 0.64s 79MB C:/Users/jacob/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.26-17.39.02:870][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jacob/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.26-17.39.02:870][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Libraries/Documents/Unreal Projects/GameJamCode/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.26-17.39.02:870][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.26-17.39.02:870][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Libraries/Documents/Unreal Projects/GameJamCode/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.26-17.39.02:870][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.26-17.39.02:887][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.26-17.39.02:900][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jacob/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.26-17.39.02:912][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.26-17.39.02:912][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.26-17.39.02:930][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.26-17.39.02:930][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.26-17.39.03:810][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.26-17.39.04:185][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.26-17.39.04:230][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.26-17.39.04:230][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.26-17.39.04:230][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.26-17.39.04:230][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.26-17.39.04:230][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.26-17.39.04:269][  0]LogNetVersion: GameJamCode , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2870734255)
+[2018.01.26-17.39.04:477][  0]LogAssetRegistry: FAssetRegistry took 0.0272 seconds to start up
+[2018.01.26-17.39.05:101][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.070283 seconds
+[2018.01.26-17.39.05:106][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.01.26-17.39.05:106][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.01.26-17.39.05:106][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.26-17.39.05:162][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.26-17.39.10:887][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.26-17.39.10:937][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.26-17.39.11:760][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.26-17.39.12:245][  0]SourceControl: Source control is disabled
+[2018.01.26-17.39.12:245][  0]SourceControl: Source control is disabled
+[2018.01.26-17.39.12:304][  0]SourceControl: Source control is disabled
+[2018.01.26-17.39.12:364][  0]SourceControl: Source control is disabled
+[2018.01.26-17.39.13:330][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.26-17.39.13:638][  0]LogOcInput: OculusInput pre-init called
+[2018.01.26-17.39.13:982][  0]LogEngine: Initializing Engine...
+[2018.01.26-17.39.13:985][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.26-17.39.14:253][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.26-17.39.14:253][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.26-17.39.14:407][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.26-17.39.14:417][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.26-17.39.14:446][  0]LogInit: FAudioDevice initialized.
+[2018.01.26-17.39.14:582][  0]LogDerivedDataCache: Saved boot cache 0.14s 79MB C:/Users/jacob/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.26-17.39.14:603][  0]LogInit: Texture streaming: Enabled
+[2018.01.26-17.39.14:714][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.26-17.39.14:857][  0]LogInit: Transaction tracking system initialized
+[2018.01.26-17.39.15:207][  0]BlueprintLog: New page: Editor Load
+[2018.01.26-17.39.16:250][  0]LocalizationService: Localization service is disabled
+[2018.01.26-17.39.17:123][  0]LogConsoleResponse: Display: 
+[2018.01.26-17.39.17:534][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.26-17.39.17:534][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.26-17.39.17:534][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.26-17.39.18:332][  0]LogFileCache: Scanning file cache for directory 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/' took 0.01s
+[2018.01.26-17.39.18:994][  0]SourceControl: Source control is disabled
+[2018.01.26-17.39.18:994][  0]Cmd: MAP LOAD FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.26-17.39.18:994][  0]LightingResults: New page: Lighting Build
+[2018.01.26-17.39.19:039][  0]MapCheck: New page: Map Check
+[2018.01.26-17.39.19:039][  0]LightingResults: New page: Lighting Build
+[2018.01.26-17.39.19:554][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.01.26-17.39.19:569][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.26-17.39.19:583][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.26-17.39.19:644][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.286ms to complete.
+[2018.01.26-17.39.19:644][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.649
+[2018.01.26-17.39.19:842][  0]LogCollectionManager: Loaded 0 collections in 0.003595 seconds
+[2018.01.26-17.39.19:932][  0]LogFileCache: Scanning file cache for directory 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Collections/' took 0.01s
+[2018.01.26-17.39.19:932][  0]LogFileCache: Scanning file cache for directory 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/Developers/jacob/Collections/' took 0.01s
+[2018.01.26-17.39.19:932][  0]LogFileCache: Scanning file cache for directory 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/Collections/' took 0.01s
+[2018.01.26-17.39.19:932][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.26-17.39.19:942][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2363 classes and 519 folders.
+[2018.01.26-17.39.20:021][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.01.26-17.39.20:070][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.01.26-17.39.20:125][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.26-17.39.20:150][  0]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.26-17.39.20:154][  0]LogSlate: Took 0.000345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.26-17.39.20:167][  0]LogSlate: Took 0.000386 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.26-17.39.20:312][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.01.26-17.39.20:584][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.26-17.39.20:584][  0]LogLoad: (Engine Initialization) Total time: 30.64 seconds
+[2018.01.26-17.39.20:584][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.26-17.39.20:584][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.26-17.39.20:623][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.26-17.39.20:675][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.26-17.39.20:690][  1]LogAssetRegistry: Asset discovery search completed in 16.2362 seconds
+[2018.01.26-17.39.20:692][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.26-17.39.20:692][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2018.01.26-17.39.21:999][ 17]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.26-17.39.32:209][384]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.26-17.39.32:591][384]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.01.26-17.39.33:369][384]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.26-17.41.39:930][880]LogMetaData: Removing '/Game/TopDownBP/AI/Follower_AI_CON.Follower_AI_CON:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TopDownBP/AI/NewBlueprint.PackageMetaData'
+[2018.01.26-17.41.39:930][880]LogMetaData: Removing '/Game/TopDownBP/AI/Follower_AI_CON.SKEL_Follower_AI_CON_C' ref from Metadata '/Game/TopDownBP/AI/NewBlueprint.PackageMetaData'
+[2018.01.26-17.41.39:930][880]LogMetaData: Removing '/Game/TopDownBP/AI/Follower_AI_CON.Follower_AI_CON_C' ref from Metadata '/Game/TopDownBP/AI/NewBlueprint.PackageMetaData'
+[2018.01.26-17.41.39:930][880]LogMetaData: Removing '/Game/TopDownBP/AI/Follower_AI_CON.Follower_AI_CON:EventGraph.K2Node_Event_0' ref from Metadata '/Game/TopDownBP/AI/NewBlueprint.PackageMetaData'
+[2018.01.26-17.41.39:930][880]LogMetaData: Removing '/Game/TopDownBP/AI/Follower_AI_CON.Follower_AI_CON:EventGraph.K2Node_Event_1' ref from Metadata '/Game/TopDownBP/AI/NewBlueprint.PackageMetaData'
+[2018.01.26-17.41.39:960][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/Follower_AI_CON" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/Follower_AI_CON.uasset" SILENT=true
+[2018.01.26-17.41.39:975][880]LogSavePackage: Save=12.07ms
+[2018.01.26-17.41.39:975][880]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Follower_AI_CON70C1BA6748232C58BABE5886D665ECCE.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/Follower_AI_CON.uasset'
+[2018.01.26-17.41.39:977][880]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/Follower_AI_CON.uasset
+[2018.01.26-17.42.24:165][197]LogSlate: Took 0.000524 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.26-17.43.04:278][928]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.26-17.49.19:406][646]BlueprintLog: New page: Compile Follower_AI_CON
+[2018.01.26-17.49.20:720][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/Follower_AI_CON" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/Follower_AI_CON.uasset" SILENT=true
+[2018.01.26-17.49.20:753][672]LogSavePackage: Save=21.91ms
+[2018.01.26-17.49.20:753][672]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Follower_AI_CONDC7BC9594E3B4A138AAFE19AFBD4205E.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/Follower_AI_CON.uasset'
+[2018.01.26-17.49.20:755][672]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/Follower_AI_CON.uasset
+[2018.01.26-17.51.47:786][548]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.020
+[2018.01.26-17.51.47:801][548]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/AI/Follower_AI_CON] ([1] browsable assets)...
+[2018.01.26-17.51.47:801][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/AI/Follower_AI_CON]
+[2018.01.26-17.51.47:827][548]LogSavePackage: Save=23.75ms
+[2018.01.26-17.51.47:827][548]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Follower_AI_CON_Auto1AFD7E1A1458A20682710C28693DCC89F.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/Follower_AI_CON_Auto1.uasset'
+[2018.01.26-17.51.47:828][548]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/Follower_AI_CON_Auto1.uasset
+[2018.01.26-17.51.47:828][548]LogFileHelpers: Auto-saving content packages took 0.027
+[2018.01.26-17.52.49:291][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/Follower_AI_CON" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/Follower_AI_CON.uasset" SILENT=true
+[2018.01.26-17.52.49:319][334]LogSavePackage: Save=25.53ms
+[2018.01.26-17.52.49:319][334]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Follower_AI_CON1A9C65864FE72DE59DB30BA2166BF532.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/Follower_AI_CON.uasset'
+[2018.01.26-17.52.49:324][334]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/Follower_AI_CON.uasset
+[2018.01.26-17.56.55:893][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/FollowerBT" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/FollowerBT.uasset" SILENT=true
+[2018.01.26-17.56.55:909][193]LogSavePackage: Save=8.90ms
+[2018.01.26-17.56.55:909][193]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/FollowerBT37DF8CC84C198122831FA8A49341C2B5.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/FollowerBT.uasset'
+[2018.01.26-17.56.55:912][193]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/FollowerBT.uasset
+[2018.01.26-17.59.31:909][895]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/TopDownBP/AI/BTService_BlueprintBase_New.
+[2018.01.26-17.59.49:441][356]LogMetaData: Removing '/Game/TopDownBP/AI/AgroCheck.SKEL_AgroCheck_C' ref from Metadata '/Game/TopDownBP/AI/BTService_BlueprintBase_New.PackageMetaData'
+[2018.01.26-17.59.49:441][356]LogMetaData: Removing '/Game/TopDownBP/AI/AgroCheck.AgroCheck_C' ref from Metadata '/Game/TopDownBP/AI/BTService_BlueprintBase_New.PackageMetaData'
+[2018.01.26-17.59.49:478][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/AgroCheck" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/AgroCheck.uasset" SILENT=true
+[2018.01.26-17.59.49:528][356]LogSavePackage: Save=48.47ms
+[2018.01.26-17.59.49:528][356]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/AgroCheck849082C746FC62AB7E591CAD42964E2B.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/AgroCheck.uasset'
+[2018.01.26-17.59.49:530][356]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/AgroCheck.uasset
+[2018.01.26-17.59.49:802][359]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDownBP/AI/AgroCheck.
+[2018.01.26-18.01.49:226][286]LogSavePackage: Save=215.30ms
+[2018.01.26-18.01.49:227][286]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/TopDownExampleMap_Auto20FF4D5B843F2F73988E7008DFAE519A9.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2018.01.26-18.01.49:228][286]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap
+[2018.01.26-18.01.49:234][286]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.534
+[2018.01.26-18.01.49:234][286]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.534
+[2018.01.26-18.12.32:556][832]LogSlate: Took 0.006424 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.01.26-18.15.20:870][732]BlueprintLog: New page: Compile AgroCheck
+[2018.01.26-18.15.25:048][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/AgroCheck" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/AgroCheck.uasset" SILENT=true
+[2018.01.26-18.15.25:063][953]LogSavePackage: Save=8.05ms
+[2018.01.26-18.15.25:063][953]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/AgroCheck446CDAB14261C343FB0E77BB70CC86AB.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/AgroCheck.uasset'
+[2018.01.26-18.15.25:068][953]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/AgroCheck.uasset
+[2018.01.26-18.16.06:417][953]LogClass: Warning: Property TargetToFollow of TargetToFollow has a struct type mismatch (tag Vector != prop BlackboardKeySelector) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.01.26-18.16.55:501][123]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.021
+[2018.01.26-18.16.55:510][123]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/AI/AgroCheck] ([1] browsable assets)...
+[2018.01.26-18.16.55:510][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/AI/AgroCheck]
+[2018.01.26-18.16.55:510][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/AgroCheck" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/AgroCheck_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.01.26-18.16.55:519][123]LogSavePackage: Save=7.38ms
+[2018.01.26-18.16.55:519][123]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/AgroCheck_Auto329FA966A41E91CBAB67F619DB14C7FC5.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/AgroCheck_Auto3.uasset'
+[2018.01.26-18.16.55:520][123]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/AgroCheck_Auto3.uasset
+[2018.01.26-18.16.55:520][123]LogFileHelpers: Auto-saving content packages took 0.011
+[2018.01.26-18.17.00:757][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/AgroCheck" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/AgroCheck.uasset" SILENT=true
+[2018.01.26-18.17.00:768][265]LogSavePackage: Save=8.40ms
+[2018.01.26-18.17.00:768][265]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/AgroCheck071CEE204ACBF9E36AFD1ABE65143E09.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/AgroCheck.uasset'
+[2018.01.26-18.17.00:769][265]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/AgroCheck.uasset
+[2018.01.26-18.30.13:720][791]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.022
+[2018.01.26-18.30.13:723][791]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/AI/AgroCheck] ([1] browsable assets)...
+[2018.01.26-18.30.13:723][791]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/AI/AgroCheck]
+[2018.01.26-18.30.13:723][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/AgroCheck" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/AgroCheck_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.01.26-18.30.13:742][791]LogSavePackage: Save=12.69ms
+[2018.01.26-18.30.13:742][791]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/AgroCheck_Auto4D1E87031471814B9DCE946A292EAFC25.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/AgroCheck_Auto4.uasset'
+[2018.01.26-18.30.13:743][791]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/AgroCheck_Auto4.uasset
+[2018.01.26-18.30.13:743][791]LogFileHelpers: Auto-saving content packages took 0.021
+[2018.01.26-18.40.14:640][166]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.024
+[2018.01.26-18.40.14:642][166]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/AI/AgroCheck] ([1] browsable assets)...
+[2018.01.26-18.40.14:642][166]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/AI/AgroCheck]
+[2018.01.26-18.40.14:642][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/AgroCheck" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/AgroCheck_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2018.01.26-18.40.14:663][166]LogSavePackage: Save=13.92ms
+[2018.01.26-18.40.14:663][166]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/AgroCheck_Auto561A36B094EFCA1C3987F56968969B0A8.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/AgroCheck_Auto5.uasset'
+[2018.01.26-18.40.14:664][166]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/AgroCheck_Auto5.uasset
+[2018.01.26-18.40.14:664][166]LogFileHelpers: Auto-saving content packages took 0.022
+[2018.01.26-18.42.46:492][679]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.26-18.48.10:323][105]BlueprintLog: New page: Compile AgroCheck
+[2018.01.26-18.48.47:916][617]BlueprintLog: New page: Compile AgroCheck
+[2018.01.26-18.53.09:758][415]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.031
+[2018.01.26-18.53.09:766][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/AI/AgroCheck] ([1] browsable assets)...
+[2018.01.26-18.53.09:766][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/AI/AgroCheck]
+[2018.01.26-18.53.09:766][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/AgroCheck" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/AgroCheck_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2018.01.26-18.53.09:823][415]LogSavePackage: Save=48.66ms
+[2018.01.26-18.53.09:823][415]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/AgroCheck_Auto68246110D4F199B96C8AA2C8C03DAF417.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/AgroCheck_Auto6.uasset'
+[2018.01.26-18.53.09:823][415]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/AgroCheck_Auto6.uasset
+[2018.01.26-18.53.09:823][415]LogFileHelpers: Auto-saving content packages took 0.059
+[2018.01.26-18.59.54:160][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/AgroCheck" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/AgroCheck.uasset" SILENT=true
+[2018.01.26-18.59.54:235][104]LogSavePackage: Save=66.69ms
+[2018.01.26-18.59.54:235][104]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/AgroCheckF49B274F432B2D694B2E95A9363187B5.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/AgroCheck.uasset'
+[2018.01.26-18.59.54:240][104]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/AgroCheck.uasset
+[2018.01.26-19.03.34:993][837]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.038
+[2018.01.26-19.03.34:996][837]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/AI/AgroCheck] ([1] browsable assets)...
+[2018.01.26-19.03.34:996][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/AI/AgroCheck]
+[2018.01.26-19.03.34:996][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/AgroCheck" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/AgroCheck_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2018.01.26-19.03.35:080][837]LogSavePackage: Save=81.40ms
+[2018.01.26-19.03.35:080][837]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/AgroCheck_Auto70B047BA248DFD3D162F41F88D39F9DCF.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/AgroCheck_Auto7.uasset'
+[2018.01.26-19.03.35:081][837]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/AgroCheck_Auto7.uasset
+[2018.01.26-19.03.35:081][837]LogFileHelpers: Auto-saving content packages took 0.086
+[2018.01.26-19.05.16:634][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/AgroCheck" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/AgroCheck.uasset" SILENT=true
+[2018.01.26-19.05.16:704][856]LogSavePackage: Save=59.40ms
+[2018.01.26-19.05.16:704][856]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/AgroCheck2B2254014756E5DC31314896C951B760.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/AgroCheck.uasset'
+[2018.01.26-19.05.16:706][856]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/AgroCheck.uasset
+[2018.01.26-19.05.20:872][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/AgroCheck" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/AgroCheck.uasset" SILENT=true
+[2018.01.26-19.05.20:936][934]LogSavePackage: Save=60.52ms
+[2018.01.26-19.05.20:936][934]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/AgroCheckEBAB1CBD48F8926593F63AA2A3BAFD85.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/AgroCheck.uasset'
+[2018.01.26-19.05.20:936][934]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/AgroCheck.uasset
+[2018.01.26-19.08.12:961][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/AgroCheck" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/AgroCheck.uasset" SILENT=true
+[2018.01.26-19.08.13:029][819]LogSavePackage: Save=64.62ms
+[2018.01.26-19.08.13:029][819]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/AgroCheckE8CD9F3E4DCB215DF619DB929E1D4A02.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/AgroCheck.uasset'
+[2018.01.26-19.08.13:030][819]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/AgroCheck.uasset
+[2018.01.26-19.38.11:296][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/AgroCheck" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/AgroCheck.uasset" SILENT=true
+[2018.01.26-19.38.11:368][753]LogSavePackage: Save=62.97ms
+[2018.01.26-19.38.11:369][753]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/AgroCheck1F88F48D414C64680085C88449F12829.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/AgroCheck.uasset'
+[2018.01.26-19.38.11:369][753]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/AgroCheck.uasset
+[2018.01.26-19.38.12:287][784]BlueprintLog: New page: Compile AgroCheck
+[2018.01.26-19.38.17:164][962]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/TopDownBP/AI/BTTask_BlueprintBase_New.
+[2018.01.26-19.38.43:684][114]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.039
+[2018.01.26-19.38.43:686][114]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/AI/BTTask_BlueprintBase_New] ([1] browsable assets)...
+[2018.01.26-19.38.43:686][114]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/AI/BTTask_BlueprintBase_New]
+[2018.01.26-19.38.43:695][114]LogSavePackage: Save=6.55ms
+[2018.01.26-19.38.43:695][114]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/BTTask_BlueprintBase_New_Auto88DAD29144C544DB36517FBB5D06AF3C0.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/BTTask_BlueprintBase_New_Auto8.uasset'
+[2018.01.26-19.38.43:695][114]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/BTTask_BlueprintBase_New_Auto8.uasset
+[2018.01.26-19.38.43:695][114]LogFileHelpers: Auto-saving content packages took 0.010
+[2018.01.26-19.39.34:145][576]LogMetaData: Removing '/Game/TopDownBP/AI/RapidMoveTo.SKEL_RapidMoveTo_C' ref from Metadata '/Game/TopDownBP/AI/BTTask_BlueprintBase_New.PackageMetaData'
+[2018.01.26-19.39.34:145][576]LogMetaData: Removing '/Game/TopDownBP/AI/RapidMoveTo.RapidMoveTo_C' ref from Metadata '/Game/TopDownBP/AI/BTTask_BlueprintBase_New.PackageMetaData'
+[2018.01.26-19.39.34:176][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/RapidMoveTo" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/RapidMoveTo.uasset" SILENT=true
+[2018.01.26-19.39.34:187][576]LogSavePackage: Save=7.46ms
+[2018.01.26-19.39.34:187][576]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/RapidMoveToF08C7AA94368B2859FE82AA5F1D1842B.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/RapidMoveTo.uasset'
+[2018.01.26-19.39.34:188][576]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/RapidMoveTo.uasset
+[2018.01.26-19.39.34:507][579]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDownBP/AI/RapidMoveTo.
+[2018.01.26-19.48.45:162][199]LogSavePackage: Save=265.10ms
+[2018.01.26-19.48.45:162][199]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/TopDownExampleMap_Auto95E70E8F34931B5D1DFD67F91741E2B6A.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto9.umap'
+[2018.01.26-19.48.45:163][199]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto9.umap
+[2018.01.26-19.48.45:172][199]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.708
+[2018.01.26-19.48.45:172][199]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.708
+[2018.01.26-19.48.45:220][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/AI/RapidMoveTo] ([1] browsable assets)...
+[2018.01.26-19.48.45:220][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/AI/RapidMoveTo]
+[2018.01.26-19.48.45:230][199]LogSavePackage: Save=6.77ms
+[2018.01.26-19.48.45:230][199]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/RapidMoveTo_Auto9BF9D49CC45EB12D7DDBC29A53F56730F.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/RapidMoveTo_Auto9.uasset'
+[2018.01.26-19.48.45:231][199]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/RapidMoveTo_Auto9.uasset
+[2018.01.26-19.48.45:231][199]LogFileHelpers: Auto-saving content packages took 0.013
+[2018.01.26-19.58.53:806][110]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.022
+[2018.01.26-19.58.53:808][110]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/AI/RapidMoveTo] ([1] browsable assets)...
+[2018.01.26-19.58.53:808][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/AI/RapidMoveTo]
+[2018.01.26-19.58.53:835][110]LogSavePackage: Save=23.08ms
+[2018.01.26-19.58.53:835][110]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/RapidMoveTo_Auto0784621BC489F3904F4934E9F6C5F69EF.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/RapidMoveTo_Auto0.uasset'
+[2018.01.26-19.58.53:836][110]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/RapidMoveTo_Auto0.uasset
+[2018.01.26-19.58.53:836][110]LogFileHelpers: Auto-saving content packages took 0.028
+[2018.01.26-20.08.30:811][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/RapidMoveTo" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/RapidMoveTo.uasset" SILENT=true
+[2018.01.26-20.08.30:846][506]LogSavePackage: Save=27.90ms
+[2018.01.26-20.08.30:846][506]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/RapidMoveTo833397ED4EBD596D387CBFAB86F4B5FD.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/RapidMoveTo.uasset'
+[2018.01.26-20.08.30:851][506]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/RapidMoveTo.uasset
+[2018.01.26-20.08.31:424][529]BlueprintLog: New page: Compile RapidMoveTo
+[2018.01.26-20.08.50:162][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/RapidMoveTo" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/RapidMoveTo.uasset" SILENT=true
+[2018.01.26-20.08.50:195][548]LogSavePackage: Save=30.08ms
+[2018.01.26-20.08.50:195][548]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/RapidMoveTo627353614DD33608A76EE39AFEEDA9F4.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/RapidMoveTo.uasset'
+[2018.01.26-20.08.50:195][548]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/RapidMoveTo.uasset
+[2018.01.26-21.20.00:903][385]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/TopDownBP/AI/BTDecorator_BlueprintBase_New.
+[2018.01.26-21.21.10:935][ 54]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.145
+[2018.01.26-21.21.10:938][ 54]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/AI/BTDecorator_BlueprintBase_New] ([1] browsable assets)...
+[2018.01.26-21.21.10:939][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/AI/BTDecorator_BlueprintBase_New]
+[2018.01.26-21.21.10:951][ 54]LogSavePackage: Save=10.54ms
+[2018.01.26-21.21.10:951][ 54]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/BTDecorator_BlueprintBase_New_Au912A41A849BD7D522A71078D4E40B017.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/BTDecorator_BlueprintBase_New_Auto1.uasset'
+[2018.01.26-21.21.10:951][ 54]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/BTDecorator_BlueprintBase_New_Auto1.uasset
+[2018.01.26-21.21.10:952][ 54]LogFileHelpers: Auto-saving content packages took 0.014
+[2018.01.26-21.23.48:973][145]BlueprintLog: New page: Compile BTDecorator_BlueprintBase_New
+[2018.01.26-21.23.56:859][297]BlueprintLog: New page: Compile BTDecorator_BlueprintBase_New
+[2018.01.26-21.30.25:390][506]LogSavePackage: Save=40.70ms
+[2018.01.26-21.30.25:390][506]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/BTDecorator_BlueprintBase_New5E0D108F441E0F03070E83BBD3F09185.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/BTDecorator_BlueprintBase_New.uasset'
+[2018.01.26-21.30.25:397][506]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/BTDecorator_BlueprintBase_New.uasset
+[2018.01.26-21.30.25:509][510]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDownBP/AI/BTDecorator_BlueprintBase_New.
+[2018.01.26-21.30.53:209][707]BlueprintLog: New page: Compile BTDecorator_BlueprintBase_New
+[2018.01.26-21.32.54:762][757]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.031
+[2018.01.26-21.32.54:765][757]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/AI/FollowerBT] ([1] browsable assets)...
+[2018.01.26-21.32.54:765][757]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/AI/FollowerBT]
+[2018.01.26-21.32.54:784][757]LogSavePackage: Save=10.59ms
+[2018.01.26-21.32.54:784][757]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/FollowerBT_Auto2483E02B14F098A6ACD6CC5AFD26DE1E9.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/FollowerBT_Auto2.uasset'
+[2018.01.26-21.32.54:784][757]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/FollowerBT_Auto2.uasset
+[2018.01.26-21.32.54:784][757]LogFileHelpers: Auto-saving content packages took 0.020
+[2018.01.26-21.38.10:078][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/FollowerBT" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/FollowerBT.uasset" SILENT=true
+[2018.01.26-21.38.10:094][682]LogSavePackage: Save=12.24ms
+[2018.01.26-21.38.10:094][682]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/FollowerBTA62379BC48CBEFC7BBA2348545F16B03.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/FollowerBT.uasset'
+[2018.01.26-21.38.10:096][682]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/FollowerBT.uasset
+[2018.01.26-21.38.16:703][928]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.26-21.38.16:989][928]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.26-21.38.17:003][928]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.26-21.38.17:031][928]LogPlayLevel: [PlayLevel] Compiling Follower_AI_CON before play...
+[2018.01.26-21.38.17:074][928]LogPlayLevel: PlayLevel: Blueprint regeneration took 71 ms (1 blueprints)
+[2018.01.26-21.38.17:093][928]PIE: New page: PIE session: TopDownExampleMap (27/01/2018 11:38:17 pm)
+[2018.01.26-21.38.17:095][928]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.01.26-21.38.17:214][928]LogPlayLevel: PIE: StaticDuplicateObject took: (0.119928s)
+[2018.01.26-21.38.17:219][928]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.01.26-21.38.17:225][928]LogPlayLevel: PIE: World Init took: (0.009602s)
+[2018.01.26-21.38.17:226][928]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.132441s)
+[2018.01.26-21.38.17:278][928]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.26-21.38.17:305][928]LogInit: FAudioDevice initialized.
+[2018.01.26-21.38.17:380][928]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.01.26-21.38.17:470][928]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2018.01.27-10.38.17
+[2018.01.26-21.38.17:482][928]LogWorld: Bringing up level for play took: 0.072834
+[2018.01.26-21.38.17:708][928]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0023 seconds. Added 11 classes and 0 folders.
+[2018.01.26-21.38.17:722][928]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.584
+[2018.01.26-21.38.17:723][928]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.26-21.38.43:165][417]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.26-21.38.43:228][417]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.26-21.40.47:668][252]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.26-21.40.47:686][252]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.26-21.40.47:690][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.26-21.40.47:690][252]PIE: New page: PIE session: TopDownExampleMap (27/01/2018 11:40:47 pm)
+[2018.01.26-21.40.47:690][252]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.01.26-21.40.47:716][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026162s)
+[2018.01.26-21.40.47:717][252]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.01.26-21.40.47:718][252]LogPlayLevel: PIE: World Init took: (0.001372s)
+[2018.01.26-21.40.47:718][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.028024s)
+[2018.01.26-21.40.47:743][252]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.26-21.40.47:770][252]LogInit: FAudioDevice initialized.
+[2018.01.26-21.40.47:815][252]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.01.26-21.40.47:820][252]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2018.01.27-10.40.47
+[2018.01.26-21.40.47:820][252]LogWorld: Bringing up level for play took: 0.004438
+[2018.01.26-21.40.47:822][252]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.316
+[2018.01.26-21.40.47:823][252]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.26-21.47.54:277][183]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.26-21.47.54:339][183]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.26-21.50.28:609][987]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.024
+[2018.01.26-21.50.28:622][987]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/AI/FollowerBT] ([1] browsable assets)...
+[2018.01.26-21.50.28:622][987]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/AI/FollowerBT]
+[2018.01.26-21.50.28:649][987]LogSavePackage: Save=14.53ms
+[2018.01.26-21.50.28:649][987]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/FollowerBT_Auto3958474654DC85E9984BD4B84208DF4E9.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/FollowerBT_Auto3.uasset'
+[2018.01.26-21.50.28:650][987]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/FollowerBT_Auto3.uasset
+[2018.01.26-21.50.28:650][987]LogFileHelpers: Auto-saving content packages took 0.029
+[2018.01.26-21.56.31:027][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/FollowerBT" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/FollowerBT.uasset" SILENT=true
+[2018.01.26-21.56.31:048][756]LogSavePackage: Save=17.41ms
+[2018.01.26-21.56.31:048][756]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/FollowerBTEA855241469709D47C22A0BE21B72B53.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/FollowerBT.uasset'
+[2018.01.26-21.56.31:050][756]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/FollowerBT.uasset
+[2018.01.26-21.57.58:680][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/FollowerBT" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/FollowerBT.uasset" SILENT=true
+[2018.01.26-21.57.58:700][476]LogSavePackage: Save=17.41ms
+[2018.01.26-21.57.58:700][476]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/FollowerBTCE6589DB4731732DE498028F1958D751.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/FollowerBT.uasset'
+[2018.01.26-21.57.58:703][476]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/FollowerBT.uasset
+[2018.01.26-22.01.02:819][352]LogMetaData: Removing '/Game/TopDownBP/AI/CloseEnough.SKEL_CloseEnough_C' ref from Metadata '/Game/TopDownBP/AI/BTDecorator_BlueprintBase_New.PackageMetaData'
+[2018.01.26-22.01.02:819][352]LogMetaData: Removing '/Game/TopDownBP/AI/CloseEnough.CloseEnough_C' ref from Metadata '/Game/TopDownBP/AI/BTDecorator_BlueprintBase_New.PackageMetaData'
+[2018.01.26-22.01.02:819][352]LogMetaData: Removing '/Game/TopDownBP/AI/CloseEnough.CloseEnough:PerformConditionCheck.K2Node_FunctionEntry_0' ref from Metadata '/Game/TopDownBP/AI/BTDecorator_BlueprintBase_New.PackageMetaData'
+[2018.01.26-22.01.02:819][352]LogMetaData: Removing '/Game/TopDownBP/AI/CloseEnough.CloseEnough:PerformConditionCheck.K2Node_FunctionResult_0' ref from Metadata '/Game/TopDownBP/AI/BTDecorator_BlueprintBase_New.PackageMetaData'
+[2018.01.26-22.01.02:854][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/CloseEnough" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/CloseEnough.uasset" SILENT=true
+[2018.01.26-22.01.02:888][352]LogSavePackage: Save=31.64ms
+[2018.01.26-22.01.02:888][352]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/CloseEnough20D0D7D74B27EFB043B9139C2C871C26.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/CloseEnough.uasset'
+[2018.01.26-22.01.02:889][352]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/CloseEnough.uasset
+[2018.01.26-22.01.03:315][356]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDownBP/AI/CloseEnough.
+[2018.01.26-22.01.41:941][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/FollowerBT" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/FollowerBT.uasset" SILENT=true
+[2018.01.26-22.01.41:966][406]LogSavePackage: Save=16.89ms
+[2018.01.26-22.01.41:966][406]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/FollowerBT45FF414D469DB13278D461851042C0FD.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/FollowerBT.uasset'
+[2018.01.26-22.01.41:968][406]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/FollowerBT.uasset
+[2018.01.26-22.02.41:787][102]LogSavePackage: Save=317.92ms
+[2018.01.26-22.02.41:787][102]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/TopDownExampleMap_Auto4902BDB914A635D997CF2619A612FCE33.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto4.umap'
+[2018.01.26-22.02.41:788][102]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto4.umap
+[2018.01.26-22.02.41:797][102]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.782
+[2018.01.26-22.02.41:797][102]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.782
+[2018.01.26-22.02.41:820][102]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/AI/FollowerBT] ([1] browsable assets)...
+[2018.01.26-22.02.41:820][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/AI/FollowerBT]
+[2018.01.26-22.02.41:838][102]LogSavePackage: Save=16.17ms
+[2018.01.26-22.02.41:838][102]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/FollowerBT_Auto49642D9E64829E45E128FA29CBE27EF3D.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/FollowerBT_Auto4.uasset'
+[2018.01.26-22.02.41:839][102]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/AI/FollowerBT_Auto4.uasset
+[2018.01.26-22.02.41:839][102]LogFileHelpers: Auto-saving content packages took 0.020
+[2018.01.26-22.06.56:901][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/FollowerBT" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/FollowerBT.uasset" SILENT=true
+[2018.01.26-22.06.56:930][147]LogSavePackage: Save=22.23ms
+[2018.01.26-22.06.56:930][147]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/FollowerBT03B1357947C50826CF95B4A321A423FF.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/FollowerBT.uasset'
+[2018.01.26-22.06.56:935][147]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/FollowerBT.uasset
+[2018.01.26-22.11.42:791][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/FollowerBT" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/FollowerBT.uasset" SILENT=true
+[2018.01.26-22.11.42:819][730]LogSavePackage: Save=24.88ms
+[2018.01.26-22.11.42:819][730]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/FollowerBTDA52ECD94F91112B29C532BE3D7D738B.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/FollowerBT.uasset'
+[2018.01.26-22.11.42:821][730]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/FollowerBT.uasset
+[2018.01.26-22.11.51:289][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/CloseEnough" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/CloseEnough.uasset" SILENT=true
+[2018.01.26-22.11.51:326][940]LogSavePackage: Save=29.35ms
+[2018.01.26-22.11.51:326][940]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/CloseEnoughEE555433488AD0509565F3AC2B00DC06.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/CloseEnough.uasset'
+[2018.01.26-22.11.51:327][940]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/CloseEnough.uasset
+[2018.01.26-22.11.55:994][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/AI/CloseEnough" FILE="D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/CloseEnough.uasset" SILENT=true
+[2018.01.26-22.11.56:027][143]LogSavePackage: Save=29.47ms
+[2018.01.26-22.11.56:028][143]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/CloseEnough617AD0D04E134077FE4E90A3EEEDF5DE.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/CloseEnough.uasset'
+[2018.01.26-22.11.56:028][143]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/AI/CloseEnough.uasset
+[2018.01.26-22.12.00:081][312]MapCheck: New page: Map Check
+[2018.01.26-22.12.00:133][312]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.26-22.12.00:136][312]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.26-22.12.00:383][312]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.01.26-22.12.00:411][312]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2018.01.26-22.12.00:418][312]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2018.01.26-22.12.00:426][312]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.01.26-22.12.00:434][312]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.01.26-22.12.00:446][312]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.01.26-22.12.00:455][312]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.01.26-22.12.02:507][312]TextureStreamingBuild: Display: Compiling optional shaders took 2.159 seconds.
+[2018.01.26-22.12.02:537][312]LogLevel: Display: Export Material TexCoord Scales took 0.030 seconds.
+[2018.01.26-22.12.02:590][312]TextureStreamingBuild: Display: Build Texture Streaming took 0.051 seconds.
+[2018.01.26-22.12.02:614][312]LightingResults: New page: Lighting Build - 28/01/2018 12:12:02 am
+[2018.01.26-22.12.02:928][312]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.26-22.12.03:103][312]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.26-22.12.03:222][312]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.26-22.12.03:778][312]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.26-22.12.03:778][312]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9184
+[2018.01.26-22.12.06:596][312]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.26-22.12.06:596][312]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.26-22.12.06:596][312]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.26-22.12.06:596][312]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.26-22.12.06:596][312]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.26-22.12.06:871][312]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.01.26-22.12.06:872][312]MapCheck: New page: TopDownExampleMap - 28/01/2018 12:12:06 am
+[2018.01.26-22.12.06:960][312]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 87.566ms to complete.
+[2018.01.26-22.12.06:985][312]LogEditorBuildUtils: Build time 0:06
+[2018.01.26-22.12.14:098][334]Job is a success!
+[2018.01.26-22.12.14:633][335]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2018.01.26-22.12.14:633][335]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.01.26-22.12.14:634][335]LogVolumetricLightmapImport:      BrickData 175x5x5 = 0.1Mb
+[2018.01.26-22.12.14:634][335]LogVolumetricLightmapImport:      Bricks at Level
+[2018.01.26-22.12.14:634][335]LogVolumetricLightmapImport:          0: 2.9% covering 100.0% of volume
+[2018.01.26-22.12.14:634][335]LogVolumetricLightmapImport:          1: 11.4% covering 6.3% of volume
+[2018.01.26-22.12.14:634][335]LogVolumetricLightmapImport:          2: 85.7% covering 0.7% of volume
+[2018.01.26-22.12.15:310][335]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.01.26-22.12.15:310][335]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.01.26-22.12.15:310][335]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.01.26-22.12.15:310][335]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2018.01.26-22.12.15:310][335]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2018.01.26-22.12.15:310][335]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2018.01.26-22.12.15:310][335]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2018.01.26-22.12.15:310][335]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.01.26-22.12.15:310][335]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.01.26-22.12.15:509][335]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.01.26-22.12.15:641][335]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2018.01.26-22.12.15:737][335]Lightmass on DESKTOP-I3II5TM: 6.99 sec total, 203 ms importing, 27 ms setup, 1.57 sec photons, 5.13 sec processing, 0 ms extra exporting [25/25 mappings]. Threads: 35.7 sec total, 12.8 sec processing.
+[2018.01.26-22.12.15:875][335]LogStaticLightingSystem: Illumination: 12.8 sec (574 ms encoding lightmaps, 326 ms encoding shadowmaps)
+[2018.01.26-22.12.15:875][335]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.01.26-22.12.15:876][335]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.01.26-22.12.16:599][335]DumpUnbuiltLightIteractions
+[2018.01.26-22.12.16:599][335]Lights with unbuilt interactions: 0
+[2018.01.26-22.12.16:599][335]
+[2018.01.26-22.12.16:599][335]Primitives with unbuilt interactions: 0
+[2018.01.26-22.12.16:614][336]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.26-22.12.16:614][336]MapCheck: New page: TopDownExampleMap - 28/01/2018 12:12:16 am
+[2018.01.26-22.12.16:708][336]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 94.441ms to complete.
+[2018.01.26-22.12.45:109][420]LogSavePackage: Save=317.49ms
+[2018.01.26-22.12.45:109][420]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/TopDownExampleMap_Auto5785996D3491AA2EF61D408B741D02EA9.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto5.umap'
+[2018.01.26-22.12.45:109][420]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto5.umap
+[2018.01.26-22.12.45:115][420]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.360
+[2018.01.26-22.12.45:115][420]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.360
+[2018.01.26-22.12.45:137][420]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData] ([1] browsable assets)...
+[2018.01.26-22.12.45:137][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData]
+[2018.01.26-22.12.45:246][420]LogSavePackage: Save=23.81ms
+[2018.01.26-22.12.45:246][420]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/TopDownExampleMap_BuiltData_Auto713CB5E04452AC296A3347958543B2A4.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData_Auto5.uasset'
+[2018.01.26-22.12.45:247][420]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData_Auto5.uasset
+[2018.01.26-22.12.45:247][420]LogFileHelpers: Auto-saving content packages took 0.111
+[2018.01.26-22.15.23:387][133]MapCheck: New page: Map Check
+[2018.01.26-22.15.23:432][133]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.26-22.15.23:432][133]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.26-22.15.23:536][133]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.01.26-22.15.23:544][133]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2018.01.26-22.15.23:551][133]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2018.01.26-22.15.23:559][133]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.01.26-22.15.23:569][133]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.01.26-22.15.23:581][133]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.01.26-22.15.23:591][133]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.01.26-22.15.24:452][133]TextureStreamingBuild: Display: Compiling optional shaders took 0.920 seconds.
+[2018.01.26-22.15.24:470][133]LogLevel: Display: Export Material TexCoord Scales took 0.018 seconds.
+[2018.01.26-22.15.24:517][133]TextureStreamingBuild: Display: Build Texture Streaming took 0.046 seconds.
+[2018.01.26-22.15.24:535][133]LightingResults: New page: Lighting Build - 28/01/2018 12:15:24 am
+[2018.01.26-22.15.24:546][133]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.26-22.15.24:548][133]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.26-22.15.24:548][133]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.26-22.15.24:549][133]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.26-22.15.24:549][133]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9184
+[2018.01.26-22.15.29:083][133]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.26-22.15.29:083][133]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.26-22.15.29:083][133]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.26-22.15.29:083][133]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.26-22.15.29:083][133]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.26-22.15.29:247][133]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.01.26-22.15.29:248][133]MapCheck: New page: TopDownExampleMap - 28/01/2018 12:15:29 am
+[2018.01.26-22.15.29:320][133]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71.797ms to complete.
+[2018.01.26-22.15.29:343][133]LogEditorBuildUtils: Build time 0:05
+[2018.01.26-22.15.36:347][271]Job is a success!
+[2018.01.26-22.15.36:512][272]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2018.01.26-22.15.36:512][272]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.01.26-22.15.36:512][272]LogVolumetricLightmapImport:      BrickData 175x5x5 = 0.1Mb
+[2018.01.26-22.15.36:512][272]LogVolumetricLightmapImport:      Bricks at Level
+[2018.01.26-22.15.36:512][272]LogVolumetricLightmapImport:          0: 2.9% covering 100.0% of volume
+[2018.01.26-22.15.36:512][272]LogVolumetricLightmapImport:          1: 11.4% covering 6.3% of volume
+[2018.01.26-22.15.36:512][272]LogVolumetricLightmapImport:          2: 85.7% covering 0.7% of volume
+[2018.01.26-22.15.37:117][272]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.01.26-22.15.37:117][272]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.01.26-22.15.37:117][272]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.01.26-22.15.37:117][272]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 512X256)
+[2018.01.26-22.15.37:117][272]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2018.01.26-22.15.37:117][272]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2018.01.26-22.15.37:117][272]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2018.01.26-22.15.37:117][272]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.01.26-22.15.37:117][272]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.01.26-22.15.37:317][272]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.01.26-22.15.37:428][272]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2018.01.26-22.15.37:482][272]Lightmass on DESKTOP-I3II5TM: 7.07 sec total, 191 ms importing, 43 ms setup, 1.84 sec photons, 4.96 sec processing, 0 ms extra exporting [25/25 mappings]. Threads: 34.5 sec total, 17.7 sec processing.
+[2018.01.26-22.15.37:582][272]LogStaticLightingSystem: Illumination: 12.9 sec (539 ms encoding lightmaps, 284 ms encoding shadowmaps)
+[2018.01.26-22.15.37:582][272]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.01.26-22.15.37:582][272]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.01.26-22.15.38:088][272]DumpUnbuiltLightIteractions
+[2018.01.26-22.15.38:088][272]Lights with unbuilt interactions: 0
+[2018.01.26-22.15.38:088][272]
+[2018.01.26-22.15.38:089][272]Primitives with unbuilt interactions: 0
+[2018.01.26-22.15.38:099][273]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.26-22.15.38:100][273]MapCheck: New page: TopDownExampleMap - 28/01/2018 12:15:38 am
+[2018.01.26-22.15.38:177][273]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 77.827ms to complete.
+[2018.01.26-22.15.39:850][317]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.26-22.15.39:868][317]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.26-22.15.39:868][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.26-22.15.39:869][317]PIE: New page: PIE session: TopDownExampleMap (28/01/2018 12:15:39 am)
+[2018.01.26-22.15.39:869][317]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.01.26-22.15.39:899][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030296s)
+[2018.01.26-22.15.39:901][317]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.01.26-22.15.39:901][317]LogPlayLevel: PIE: World Init took: (0.001803s)
+[2018.01.26-22.15.39:901][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.032724s)
+[2018.01.26-22.15.39:923][317]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.26-22.15.39:950][317]LogInit: FAudioDevice initialized.
+[2018.01.26-22.15.39:995][317]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.01.26-22.15.39:999][317]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2018.01.27-11.15.39
+[2018.01.26-22.15.40:000][317]LogWorld: Bringing up level for play took: 0.003469
+[2018.01.26-22.15.40:004][317]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.134
+[2018.01.26-22.15.40:005][317]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.26-22.19.03:592][154]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.26-22.19.03:648][154]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.26-22.20.18:168][134]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.26-22.20.18:187][134]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.26-22.20.18:187][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.26-22.20.18:187][134]PIE: New page: PIE session: TopDownExampleMap (28/01/2018 12:20:18 am)
+[2018.01.26-22.20.18:187][134]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.01.26-22.20.18:212][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024216s)
+[2018.01.26-22.20.18:213][134]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.01.26-22.20.18:213][134]LogPlayLevel: PIE: World Init took: (0.001325s)
+[2018.01.26-22.20.18:213][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.026021s)
+[2018.01.26-22.20.18:239][134]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.26-22.20.18:262][134]LogInit: FAudioDevice initialized.
+[2018.01.26-22.20.18:297][134]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.01.26-22.20.18:300][134]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2018.01.27-11.20.18
+[2018.01.26-22.20.18:301][134]LogWorld: Bringing up level for play took: 0.003200
+[2018.01.26-22.20.18:303][134]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.165
+[2018.01.26-22.20.18:303][134]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.26-22.37.55:243][760]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.26-22.37.55:295][760]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2018.01.26-22.38.01:854][956]LogUProjectInfo: Found projects:
+[2018.01.26-22.38.03:758][974]Cmd: CLOSE_SLATE_MAINFRAME
+[2018.01.26-22.38.07:795][974]LogSavePackage: Save=347.44ms
+[2018.01.26-22.38.07:795][974]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/TopDownExampleMapB608A4DE40656D712B54F8A90EE42B1E.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.01.26-22.38.07:803][974]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.01.26-22.38.07:828][974]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.507
+[2018.01.26-22.38.07:993][974]LogSavePackage: Save=153.95ms
+[2018.01.26-22.38.07:993][974]LogSavePackage: Moving 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/TopDownExampleMap_BuiltData5AFD9AFE40E9F87CD44168B4AF51269E.tmp' to 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.01.26-22.38.07:999][974]LogSavePackage: Display: Finished SavePackage D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2018.01.26-22.38.08:213][974]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.26-22.38.08:265][974]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.26-22.38.08:810][975]Cmd: QUIT_EDITOR
+[2018.01.26-22.38.09:951][975]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2018.01.26-22.38.10:004][975]LogExit: Preparing to exit.
+[2018.01.26-22.38.10:645][975]LogExit: Editor shut down
+[2018.01.26-22.38.10:713][975]LogExit: Transaction tracking system shut down
+[2018.01.26-22.38.11:020][975]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.26-22.38.11:020][975]LogDirectoryWatcher: A directory notification for 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/' was aborted.
+[2018.01.26-22.38.11:020][975]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.26-22.38.11:021][975]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.26-22.38.11:022][975]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.26-22.38.11:023][975]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.26-22.38.11:023][975]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.26-22.38.11:732][975]LogExit: Object subsystem successfully closed.
+[2018.01.26-22.38.11:841][975]LogD3D11RHI: Shutdown
+[2018.01.26-22.38.11:841][975]LogD3D11RHI: CleanupD3DDevice
+[2018.01.26-22.38.11:864][975]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.26-22.38.11:994][975]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (554)
+[2018.01.26-22.38.11:994][975]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2018.01.26-22.38.11:994][975]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2018.01.26-22.38.11:994][975]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.01.26-22.38.11:994][975]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.01.26-22.38.11:994][975]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.01.26-22.38.11:997][975]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.26-22.38.12:008][975]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.01.26-22.38.12:008][975]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.01.26-22.38.12:008][975]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.01.26-22.38.12:009][975]LogDirectoryWatcher: A directory notification for 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/Collections/' was aborted.
+[2018.01.26-22.38.12:009][975]LogDirectoryWatcher: A directory notification for 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Content/Developers/jacob/Collections/' was aborted.
+[2018.01.26-22.38.12:010][975]LogDirectoryWatcher: A directory notification for 'D:/Libraries/Documents/Unreal Projects/GameJamCode/Saved/Collections/' was aborted.
+[2018.01.26-22.38.12:010][975]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.01.26-22.38.12:011][975]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.01.26-22.38.12:012][975]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.01.26-22.38.12:017][975]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.01.26-22.38.12:018][975]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.01.26-22.38.12:019][975]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.01.26-22.38.12:019][975]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.01.26-22.38.12:019][975]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.01.26-22.38.12:019][975]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.01.26-22.38.12:020][975]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.01.26-22.38.12:020][975]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.01.26-22.38.12:020][975]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.01.26-22.38.12:021][975]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.01.26-22.38.12:023][975]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.01.26-22.38.12:024][975]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.01.26-22.38.12:032][975]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.01.26-22.38.12:032][975]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.01.26-22.38.12:032][975]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.01.26-22.38.12:032][975]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.01.26-22.38.12:032][975]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.01.26-22.38.12:032][975]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.01.26-22.38.12:032][975]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.01.26-22.38.12:032][975]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.01.26-22.38.12:032][975]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.01.26-22.38.12:032][975]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.01.26-22.38.12:032][975]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.01.26-22.38.12:033][975]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.01.26-22.38.12:034][975]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.01.26-22.38.12:035][975]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.01.26-22.38.12:035][975]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.01.26-22.38.12:035][975]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.01.26-22.38.12:035][975]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.01.26-22.38.12:035][975]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.01.26-22.38.12:039][975]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.01.26-22.38.12:042][975]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.01.26-22.38.12:047][975]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.01.26-22.38.12:049][975]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.01.26-22.38.12:050][975]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.01.26-22.38.12:052][975]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.01.26-22.38.12:052][975]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.01.26-22.38.12:052][975]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.01.26-22.38.12:113][975]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.01.26-22.38.12:114][975]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.01.26-22.38.12:114][975]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.01.26-22.38.12:114][975]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.01.26-22.38.12:115][975]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.01.26-22.38.12:117][975]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.01.26-22.38.12:119][975]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.01.26-22.38.12:121][975]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.01.26-22.38.12:121][975]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.01.26-22.38.12:124][975]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.01.26-22.38.12:125][975]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.01.26-22.38.12:125][975]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.01.26-22.38.12:126][975]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.01.26-22.38.12:127][975]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.01.26-22.38.12:128][975]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.01.26-22.38.12:128][975]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.01.26-22.38.12:129][975]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.01.26-22.38.12:132][975]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.01.26-22.38.12:132][975]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.01.26-22.38.12:133][975]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.01.26-22.38.12:136][975]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.01.26-22.38.12:138][975]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.01.26-22.38.12:139][975]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.01.26-22.38.12:140][975]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.01.26-22.38.12:203][975]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.01.26-22.38.12:206][975]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.01.26-22.38.12:207][975]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.01.26-22.38.12:210][975]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.01.26-22.38.12:211][975]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.01.26-22.38.12:214][975]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.01.26-22.38.12:215][975]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.01.26-22.38.12:216][975]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.01.26-22.38.12:216][975]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.01.26-22.38.12:216][975]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.01.26-22.38.12:260][975]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.01.26-22.38.12:267][975]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.01.26-22.38.12:269][975]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.01.26-22.38.12:269][975]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.01.26-22.38.12:274][975]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.01.26-22.38.12:275][975]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.01.26-22.38.12:275][975]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.01.26-22.38.12:280][975]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.01.26-22.38.12:282][975]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.01.26-22.38.12:282][975]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.01.26-22.38.12:283][975]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.01.26-22.38.12:283][975]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.01.26-22.38.12:283][975]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.01.26-22.38.12:283][975]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.01.26-22.38.12:283][975]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.01.26-22.38.12:283][975]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.01.26-22.38.12:283][975]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.01.26-22.38.12:283][975]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.01.26-22.38.12:283][975]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.01.26-22.38.12:283][975]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.01.26-22.38.12:334][975]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.01.26-22.38.12:336][975]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.01.26-22.38.12:336][975]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.01.26-22.38.12:336][975]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.01.26-22.38.12:337][975]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.01.26-22.38.12:338][975]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.01.26-22.38.12:338][975]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.01.26-22.38.12:338][975]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.01.26-22.38.12:338][975]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.01.26-22.38.12:338][975]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.01.26-22.38.12:338][975]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.01.26-22.38.12:338][975]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.01.26-22.38.12:342][975]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.01.26-22.38.12:343][975]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.01.26-22.38.12:343][975]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.01.26-22.38.12:343][975]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.01.26-22.38.12:343][975]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.01.26-22.38.12:344][975]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.01.26-22.38.12:344][975]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.01.26-22.38.12:344][975]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.01.26-22.38.12:345][975]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.01.26-22.38.12:349][975]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.01.26-22.38.12:352][975]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.01.26-22.38.12:352][975]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.01.26-22.38.12:353][975]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.01.26-22.38.12:353][975]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.01.26-22.38.12:355][975]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.01.26-22.38.12:358][975]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.01.26-22.38.12:360][975]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.01.26-22.38.12:361][975]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.01.26-22.38.12:361][975]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.01.26-22.38.12:361][975]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.01.26-22.38.12:361][975]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.01.26-22.38.12:363][975]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.01.26-22.38.12:365][975]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.01.26-22.38.12:372][975]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.01.26-22.38.12:373][975]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.01.26-22.38.12:374][975]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.01.26-22.38.12:382][975]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.01.26-22.38.12:383][975]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.01.26-22.38.12:385][975]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.01.26-22.38.12:385][975]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.01.26-22.38.12:385][975]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.01.26-22.38.12:385][975]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.01.26-22.38.12:385][975]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.01.26-22.38.12:386][975]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.01.26-22.38.12:487][975]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.01.26-22.38.12:589][975]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.01.26-22.38.12:591][975]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.01.26-22.38.12:592][975]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.01.26-22.38.12:592][975]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.01.26-22.38.12:594][975]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.01.26-22.38.12:594][975]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.01.26-22.38.12:598][975]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.01.26-22.38.12:598][975]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.01.26-22.38.12:598][975]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.01.26-22.38.12:599][975]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.01.26-22.38.12:606][975]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.01.26-22.38.12:606][975]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.01.26-22.38.12:606][975]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.01.26-22.38.12:606][975]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.01.26-22.38.12:608][975]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.01.26-22.38.12:608][975]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.01.26-22.38.12:614][975]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.01.26-22.38.12:615][975]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.01.26-22.38.12:615][975]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.01.26-22.38.12:617][975]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.01.26-22.38.12:618][975]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.01.26-22.38.12:618][975]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.01.26-22.38.12:618][975]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.01.26-22.38.12:619][975]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.01.26-22.38.12:623][975]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.01.26-22.38.12:627][975]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.01.26-22.38.12:628][975]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.01.26-22.38.12:634][975]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.01.26-22.38.12:642][975]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.01.26-22.38.12:643][975]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.01.26-22.38.12:647][975]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.01.26-22.38.12:647][975]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.01.26-22.38.12:658][975]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.01.26-22.38.12:658][975]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.01.26-22.38.12:658][975]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.01.26-22.38.12:659][975]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.01.26-22.38.12:659][975]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.01.26-22.38.12:659][975]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.01.26-22.38.12:659][975]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.01.26-22.38.12:659][975]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.01.26-22.38.12:669][975]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.26-22.38.12:669][975]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.01.26-22.38.12:673][975]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.01.26-22.38.12:675][975]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.01.26-22.38.12:675][975]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.01.26-22.38.12:675][975]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.01.26-22.38.12:676][975]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.01.26-22.38.12:677][975]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.01.26-22.38.12:678][975]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.01.26-22.38.12:727][975]LogDerivedDataCache: Shutdown
+[2018.01.26-22.38.12:727][975]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.01.26-22.38.12:727][975]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.01.26-22.38.12:728][975]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.01.26-22.38.12:728][975]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.01.26-22.38.12:729][975]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.01.26-22.38.12:730][975]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.01.26-22.38.12:730][975]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.01.26-22.38.12:730][975]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.01.26-22.38.12:731][975]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.01.26-22.38.12:731][975]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.01.26-22.38.12:733][975]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.01.26-22.38.12:734][975]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.01.26-22.38.12:734][975]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.01.26-22.38.12:735][975]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.01.26-22.38.12:735][975]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.01.26-22.38.12:736][975]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.01.26-22.38.12:737][975]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.01.26-22.38.12:738][975]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.01.26-22.38.12:739][975]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.01.26-22.38.12:739][975]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.01.26-22.38.12:739][975]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.01.26-22.38.12:739][975]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.01.26-22.38.12:739][975]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.01.26-22.38.12:739][975]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.01.26-22.38.12:739][975]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.01.26-22.38.12:740][975]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.01.26-22.38.12:740][975]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.01.26-22.38.12:740][975]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.01.26-22.38.12:740][975]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.01.26-22.38.12:740][975]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.01.26-22.38.12:740][975]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.01.26-22.38.12:740][975]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.01.26-22.38.12:740][975]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.01.26-22.38.12:740][975]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.01.26-22.38.12:740][975]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.01.26-22.38.12:740][975]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.01.26-22.38.12:740][975]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.01.26-22.38.12:740][975]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.01.26-22.38.12:740][975]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.01.26-22.38.12:740][975]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.01.26-22.38.12:740][975]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.01.26-22.38.12:740][975]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.01.26-22.38.12:740][975]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.01.26-22.38.12:740][975]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.01.26-22.38.12:740][975]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.01.26-22.38.12:741][975]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.01.26-22.38.12:742][975]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.01.26-22.38.12:742][975]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.01.26-22.38.12:742][975]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.01.26-22.38.12:742][975]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.26-22.38.12:742][975]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.26-22.38.12:745][975]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.26-22.38.12:750][975]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.26-22.38.12:750][975]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.26-22.38.12:750][975]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3DF81F80-4DD8-D0D6-D0C4-A6A1A4878DFC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=eca3206c40da25aa114e81ba64fb2e99%7C920567198b074812916a10adee5ac6a1%7Cbcd4ca5f-a0d1-4f53-b37e-9244edd0dda4&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.26-22.38.12:776][975]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.26-22.38.12:782][975]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.26-22.38.12:782][975]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.26-22.38.12:784][975]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.26-22.38.12:785][975]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.26-22.38.12:786][975]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.26-22.38.12:786][975]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.26-22.38.12:786][975]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.26-22.38.12:801][975]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.26-22.38.12:803][975]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.26-22.38.12:803][975]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.26-22.38.12:803][975]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.26-22.38.12:803][975]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.26-22.38.12:803][975]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.26-22.38.12:803][975]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.26-22.38.12:803][975]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.26-22.38.12:803][975]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.26-22.38.12:804][975]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.26-22.38.12:804][975]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.26-22.38.12:811][975]LogExit: Exiting.
+[2018.01.26-22.38.12:845][975]Log file closed, 01/27/18 11:38:12
